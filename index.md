@@ -1,88 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: "Ayoub Wederni's CV"
+author: "Ayoub Wederni"
+
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ayoub Wederni
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+**Software Engineer Student** 
 
+**Email:** [ouba.oulidha@gmail.com](ouba.oulidha@gmail.com.org)
 
-## Currently
+**LinkedIn:** [Ayoub Wederni](https://www.linkedin.com/in/ayoub-wederni-95137a377/)
 
-Standing on the shoulders of giants
+**GitHub:** [Ayoub](https://github.com/Ayoubouba)
 
-### Specialized in
+**Location:** Gabes Tunisie
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Phone:** (+216) 99 444 231
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
+----
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**Bachelor of Science in Computer Science**  
+Higher Institute of Mathematics and Computer Science of Monastir (2023 – now, Monastir, Tunisia)  
+*Graduated with higest honor(1st).*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Education
+**Baccalaureate in mathematics**  
+pioneer high school of Gabes (2023, Gabes, Tunisia)  
+*Graduated with Distinction "Good".*
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+## Experience
 
 
 
-## Awards
+## Skills
 
-`2012`
-President, *Royal Society*, London, UK
+- **Languages:** English, French, Arabic, German (beginner)
+- **Data Analysis:** Numpy, Pandas, SQL, Jupyter
 
-Associate, *French Academy of Science*, Paris, France
+## Certifications
 
+-Cambridge - B2 english(Q1 2022)
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Extra-curricular Activities
+- video games
+- chess
 
 <!-- ### Footer
 
