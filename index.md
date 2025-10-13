@@ -28,19 +28,18 @@ Higher Institute of Mathematics and Computer Science of Monastir (2023 – now, 
 ## Education
 **Baccalaureate in mathematics**  
 pioneer high school of Gabes (2023, Gabes, Tunisia)  
-*Graduated with Distinction "Good".*
+*Graduated with Distinction "Good"(15.63).*
 
 ## Experience
-
-
+-Internship at SECIL (Société de Ciment de Gabès)(2025): Development of an online training platform
 
 ## Skills
 
 - **Languages:** English, French, Arabic, German (beginner)
-- **Data Analysis:** Numpy, Pandas, SQL, Jupyter
+- **Data Analysis:** python,SQL,pytorch,tenserflow,react,mongoDB,C
 
 ## Certifications
-
+-IBM AI Engineering certificate (link: https://coursera.org/share/a29f83ef790f041f166fd624462ce6ad)
 -Cambridge - B2 english(Q1 2022)
 
 ## Extra-curricular Activities
